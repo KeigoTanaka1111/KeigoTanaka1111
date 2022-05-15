@@ -1,5 +1,14 @@
 ### Hi there 👋
-研究資料
+### プロフィール
+
+### 所属
+近畿大学大学院総合理工学研究科エレクトロニクス系工学専攻
+### 取得資格
+基本情報技術者試験
+
+TOEIC L&R 715点
+
+Cisco Certified Network Associate 
 <!--
 **KeigoTanaka1111/KeigoTanaka1111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
