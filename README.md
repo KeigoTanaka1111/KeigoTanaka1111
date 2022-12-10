@@ -1,6 +1,7 @@
 ### Hi there 👋
 ### プロフィール
 
+<!--
 ### 取得資格
 基本情報技術者試験
 
@@ -10,6 +11,8 @@ Cisco Certified Network Associate
 
 ### 卒業研究内容
 https://drive.google.com/drive/folders/1K2BI-e_6w44bSBxO-1ovly3H3m7eWdkc?usp=sharing
+-->
+
 ### 成果物
 カロリー管理アプリ(url:https://calorie-app1110.herokuapp.com)
 <!--
